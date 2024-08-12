@@ -10,4 +10,4 @@
 <img src="screenshots/admin_products.png" width=300>
 <img src="screenshots/order_status.png" width=300>
 
-
+<img src="screenshots/payment_gateway.png" width=300>
